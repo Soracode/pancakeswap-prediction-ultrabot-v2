@@ -5,7 +5,8 @@ Are you interested in winning big on PancakeSwap? Try the PancakeSwap Prediction
 
 ## ✔️🔥NEW Features
  - [x] 🧠 Powerful algorithm V2!
- - [x] 🎨 Better UI
+ - [x] ⚖️ Better win rate
+ - [x] 🎨 Brand new UI
  - [x] 🌐 Runs on browser
  - [x] 🥇 Auto claim prizes
  - [x] ⏳ Current round progress bar + ETA
