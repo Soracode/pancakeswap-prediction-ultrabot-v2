@@ -51,6 +51,7 @@ A lot of wallets don't provide you the private key, but just the **seed phrase**
  - [x] Min operating time: 5h (the longer the time, the more the UP/DOWN bets stabilize)
  - [x] Open bot on a new window (to don't forget it open)
  - [x] Statistically after consecutive losses you have more chances to win in the next one
+ - [x] You can run it locally just downloading the repo and ``npm i`` ``npm start``
 
 
 🔧**The code is in BETA, so please be aware of the risks that come with it.**
