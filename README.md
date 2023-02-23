@@ -1,6 +1,5 @@
   
-# 🔥NEW ⚡🔮 PancakeSwap Prediction UltraBot V2 🔮⚡ NEW🔥
-
+# 🔥NEW ⚡🔮 PancakeSwap Prediction UltraBot V2 🔮⚡
 Are you interested in winning big on PancakeSwap? Try the PancakeSwap Prediction UltraBot V2 with a win rate of ~75%! It's a browser-friendly tool that you can run on any device, including **Windows, iOS, IPhone, Android, and more**. This is the improved version of [this old repository](https://github.com/Soracode/pancakeswap-prediction-smartbot)
 
 
