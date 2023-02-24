@@ -55,6 +55,19 @@ A lot of wallets don't provide you the private key, but just the **seed phrase**
  - [x] You can run it locally just downloading the repo and ``npm i`` ``npm start``
 
 
+## 🐰⚡ Local Installation
+(Ignore this if running on browser)
+
+Download and Install Node here:
+https://nodejs.org/en/download/
+
+Then run the following commands in terminal:
+
+1. ``git clone https://github.com/Soracode/pancakeswap-prediction-ultrabot-v2`` 
+2. ``cd pancakeswap-prediction-ultrabot-v2``
+3. ``npm i``
+
+
 🔧**The code is in BETA, so please be aware of the risks that come with it.**
 Don't risk any money you're not willing to lose.
 
